@@ -9,6 +9,9 @@ print 'x'
 vvod = input('введите ваще имя')
 print 'vvod'
 ]
+[
+print 'Egor Popov'
+]
 
 
 
