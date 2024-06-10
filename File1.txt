@@ -13,5 +13,10 @@ print 'vvod'
 print 'Egor Popov'
 ]
 
+[print 'Введите свое имя']
+name= 'Name'
+input = name
+ 
+
 
 
