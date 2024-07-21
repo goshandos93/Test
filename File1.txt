@@ -16,6 +16,10 @@ print 'Egor Popov'
 [print 'Введите свое имя']
 name= 'Name'
 input = name
+111
+22
+33
+
  
 
 
