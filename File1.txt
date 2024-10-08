@@ -12,6 +12,6 @@ print 'vvod'
 [
 print 'Egor Popov'
 ]
-
+qweqweqwe
 
 
